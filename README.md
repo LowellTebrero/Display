@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.blender.org" title="Go to blender.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="40" height="40"></a>
+<a href="https://www.blender.org" title="Go to blender.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width="40" height="40" style="max-width: 100%;"></a>
 
