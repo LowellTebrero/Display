@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Lowell Tebrero welcome to my Repository 👋
 
 <!--
 **LowellTebrero/LowellTebrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
