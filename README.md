@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 <a href="https://laravel.com/" class="inline-flex items-center"><img class="w-12" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="52"></a>
 <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 
